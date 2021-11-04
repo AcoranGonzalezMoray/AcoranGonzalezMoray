@@ -1,7 +1,7 @@
 ### Hi, i´m Acorán 👋
 
 <div align="center">
-	<img src="" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+	<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
 </div>
 
 ## Skills
