@@ -2,7 +2,9 @@
 
 <div align="center">
 	<img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif">
+	<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray">-->
 </div>
+
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -22,7 +24,15 @@
 [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 
-
 ## Contact me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acoranlol14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+
+## Stats
+<div>
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=AcoranGonzalezMoray&theme=midnight-purple&show_icons=true"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray&theme=midnight-purple&show_icons=true"7>
+	<!--<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&theme=dark&show_icons=true"/>-->
+</div>
+
