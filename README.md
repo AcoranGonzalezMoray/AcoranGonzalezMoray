@@ -1,7 +1,7 @@
 ### Hi, i´m Acorán 👋
 
-<div align="center">
-	<img src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif">
+<div>
+	<img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif">
 </div>
 
 ## Skills
