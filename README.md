@@ -1,7 +1,7 @@
 ### Hi, i´m Acorán 👋
 
 <div align="center">
-	<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+	<img src="https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif">
 </div>
 
 ## Skills
@@ -21,7 +21,6 @@
 ## Frameworks
 [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![Symfony](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 
 ## Contact me
