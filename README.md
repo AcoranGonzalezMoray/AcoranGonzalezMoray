@@ -42,7 +42,7 @@
 	
 	def getCity():
 		return GranCanaria_LasPalmas()
-	
+	 
 	def Ambitions():
 		LearnJapanese()
 		CreateSkyNet()
