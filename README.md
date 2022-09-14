@@ -7,7 +7,8 @@
 	<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray">-->
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Acorán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/acor%C3%A1n-gonz%C3%A1lez-moray-729022250/))]([https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/acor%C3%A1n-gonz%C3%A1lez-moray-729022250/)) [![Gmail Badge](https://img.shields.io/badge/-acoranlol14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acoranlol14@gmail.com)](mailto:acoranlol4@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-AcoranGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acorán-gonzález-moray)](https://www.linkedin.com/in/acorán-gonzález-moray)  [![Gmail Badge](https://img.shields.io/badge/-acoranlol14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acoranlol14@gmail.com)](mailto:acoranlol4@gmail.com) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
