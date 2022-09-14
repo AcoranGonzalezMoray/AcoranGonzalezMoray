@@ -1,38 +1,64 @@
-### Hi, i´m Acorán 👋
+## Hi, i´m Acorán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <div align="center">
 	<img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif">
 	<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray">-->
 </div>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Acorán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/acor%C3%A1n-gonz%C3%A1lez-moray-729022250/))]([https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/acor%C3%A1n-gonz%C3%A1lez-moray-729022250/)) [![Gmail Badge](https://img.shields.io/badge/-acoranlol14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acoranlol14@gmail.com)](mailto:acoranlol4@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> </p>
 
-## Skills
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-</br>
-[![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
----
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-## Frameworks
-[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+## :computer: Technologies I Love
+* React Native
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 
-## Contact me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acoranlol14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray&layout=compact">
 
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Acorán Gonzalez Moray'
+		current_work = 'Writing code'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return GranCanaria_LasPalmas()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ 
+## Current Works
+ * Started learning MERN Stack !!
+ * I'm currently working on 🔭 building **Mobile Apps using React Native** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Getting Started with NodeJS and the MERN Stack!!
+ 
+## Other Stuff
+  - :octocat: [My Resume]//(drive)
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-## Stats
-<div>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=AcoranGonzalezMoray&theme=midnight-purple&show_icons=true"/>
-	##<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray&theme=midnight-purple&show_icons=true"7>
-	<!--<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&theme=dark&show_icons=true"/>-->
-</div>
-
+![Acoran github stats](https://github-readme-stats.vercel.app/api?username=AcoranGonzalezMoray&show_icons=true&hide=[%22issues%22])
+ 
+ 
