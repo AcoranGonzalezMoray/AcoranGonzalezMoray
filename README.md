@@ -57,7 +57,7 @@
  
 ## Other Stuff
   - :octocat: [My Resume]//(drive)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+  - If you have any suggestions to this README, feel free to pull up a request
 
 ![Acoran github stats](https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app//api?username=AcoranGonzalezMoray&show_icons=true&count_private=true)
  
