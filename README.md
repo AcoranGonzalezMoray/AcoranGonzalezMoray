@@ -79,8 +79,9 @@ My Github Stats
 <br>
 	
 Currently Coding & Listening to:	
-	
-[![Spotify](https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify?show_offline=true)](https://open.spotify.com/user/USER_NAME)
+<div align="center">
+	<img src="https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify/?show_offline=true&&?background_color=8b0000&border_color=ffffff">
+</div>
 	
 </details>
 
