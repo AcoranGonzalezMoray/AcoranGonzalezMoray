@@ -22,11 +22,10 @@
 <img src="https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app/api/top-langs?username=AcoranGonzalezMoray&layout=compact&count_private=true"/>
 
 ## Programming Languages
-<img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/html.svg' width='30'/> <img src='https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/kotlin.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/AcoranGonzalezMoray/CssAnimationScroll.io/blob/main/auxReadme/B.gif'/>
  
  ## Technologies I Use
- <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/android.svg' height='40'/><img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/AcoranGonzalezMoray/AcoranGonzalezMoray/blob/main/images/react.svg' width='33'/>
+<img src = 'https://github.com/AcoranGonzalezMoray/CssAnimationScroll.io/blob/main/auxReadme/A.gif'/>
  
  ## Who am I?
  ```python
