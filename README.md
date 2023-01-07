@@ -78,6 +78,8 @@ My Github Stats
 
 <br>
 	
+Currently Coding & Listening to:	
+	
 [![Spotify](https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 	
 </details>
