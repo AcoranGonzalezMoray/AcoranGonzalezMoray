@@ -80,7 +80,7 @@ My Github Stats
 	
 Currently Coding & Listening to:	
 	
-[![Spotify](https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify?show_offline=true)](https://open.spotify.com/user/USER_NAME)
 	
 </details>
 
