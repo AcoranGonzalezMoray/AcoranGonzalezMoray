@@ -19,8 +19,6 @@
 * Data Science
 * Frontend and Backend Web Development
 
-<img src="https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app/api/top-langs?username=AcoranGonzalezMoray&layout=compact&count_private=true"/>
-
 ## Programming Languages
 <img src = 'https://github.com/AcoranGonzalezMoray/CssAnimationScroll.io/blob/main/auxReadme/B.gif'/>
  
@@ -57,7 +55,30 @@
 ## Other Stuff
   - :octocat: [My Resume]//(drive)
   - If you have any suggestions to this README, feel free to pull up a request
+  
+<details open>
+<summary><h2>📈 Stats</h2></summary>
+<br>
+My Github Stats
 
-![Acoran github stats](https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app//api?username=AcoranGonzalezMoray&show_icons=true&count_private=true)
+
+
+
+|Summary  | Stats |
+| ------------- | ------------- |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acorangonzalezmoray&theme=dracula) | ![Acoran github stats](https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app//api?username=AcoranGonzalezMoray&show_icons=true&count_private=true&theme=dracula)  |
+
+
+| Most Used Languages | Top Languages by Repo |Top Languages by Commit |
+| ------------- | ------------- |----|
+| <img src="https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app/api/top-langs?username=AcoranGonzalezMoray&layout=compact&count_private=true&theme=dracula"/>   | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acorangonzalezmoray&theme=dracula)  |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acorangonzalezmoray&theme=dracula)|
+
+
+
+
+<br>
+
+</details>
+
  
  
