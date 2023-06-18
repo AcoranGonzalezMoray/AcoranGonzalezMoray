@@ -18,12 +18,39 @@
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
-
+ 
 ## Programming Languages
-<img src = 'https://github.com/AcoranGonzalezMoray/CssAnimationScroll.io/blob/main/auxReadme/B.gif'/>
+<div class="container">
+      <div class="scroll-parent">
+      <div class="scroll-element primary">
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/c-original.svg'  width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/cpp.svg' width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/python2.png' width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/html.svg'width='75px' /> 
+          <img src=  'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/java.svg'width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/kotlin.svg' width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/css.svg' width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/js.svg' width='75px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/php.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/sql.svg' width='75px' />   
+        </div>
+    </div>
  
  ## Technologies I Use
-<img src = 'https://github.com/AcoranGonzalezMoray/CssAnimationScroll.io/blob/main/auxReadme/A.gif'/>
+<div class="container">
+      <div class="scroll-parent">
+        <div class="scroll-element primary">
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/pycharm.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/android.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flutter-logo.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/django.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flask.png' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/git.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/nodejs.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/react.svg' width='75px' />
+        </div>
+      </div>
+</div>
  
  ## Who am I?
  ```python
@@ -85,5 +112,4 @@ Currently Coding & Listening to:
 	
 </details>
 
- 
  
