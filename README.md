@@ -1,6 +1,18 @@
-## Hi, i´m Acorán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=150&size=32&duration=3000&pause=8000&color=F7F7F7&vCenter=true&repeat=false&width=300&lines=Hi,+i´m+Acorán)](https://git.io/typing-svg) 
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px" height="38px">
+
+</div>
+
+<br>
+
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=150&size=32&duration=2000&pause=8000&color=F7F7F7&vCenter=true&repeat=false&width=900&lines=Welcome+to+my+humble+abode+in+the+Digital+World..)](https://git.io/typing-svg)
+</div>
+<h1></h1>
 
 <div align="center">
 	<img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif">
