@@ -12,7 +12,8 @@
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=150&size=32&duration=2000&pause=8000&color=F7F7F7&vCenter=true&repeat=false&width=900&lines=Welcome+to+my+humble+abode+in+the+Digital+World..)](https://git.io/typing-svg)
 </div>
-<h1></h1>
+
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <div align="center">
 	<img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g"><img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
@@ -28,6 +29,8 @@
 
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 ## :computer: Technologies I Love
 * React Native
@@ -122,8 +125,10 @@ My Github Stats
 
 
 <br>
-	
-Currently Coding & Listening to:	
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />	
+
+## Currently Coding & Listening to:	
+
 <div align="center">
 	<img src="https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify/?show_offline=true&&?background_color=8b0000&border_color=ffffff">
 </div>
