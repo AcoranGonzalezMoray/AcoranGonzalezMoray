@@ -15,13 +15,17 @@
 <h1></h1>
 
 <div align="center">
-	<img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif">
-	<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcoranGonzalezMoray">-->
+	<img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g"><img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
+	
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> 
+	
+[![Linkedin Badge](https://img.shields.io/badge/-AcoranGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acorán-gonzález-moray)](https://www.linkedin.com/in/acorán-gonzález-moray)  [![Gmail Badge](https://img.shields.io/badge/-acorangonzalezmoray@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acorangonzalezmoray@gmail.com)](mailto:acorangonzalezmoray@gmail.com) [![Gmail Badge](https://img.shields.io/badge/WEB-Portafolio-lightgrey)](https://acorangonzalezmoray.github.io/Portafolio/) 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AcoranGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acorán-gonzález-moray)](https://www.linkedin.com/in/acorán-gonzález-moray)  [![Gmail Badge](https://img.shields.io/badge/-acorangonzalezmoray@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acorangonzalezmoray@gmail.com)](mailto:acorangonzalezmoray@gmail.com) [![Gmail Badge](https://img.shields.io/badge/WEB-Portafolio-lightgrey)](https://acorangonzalezmoray.github.io/Portafolio/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
