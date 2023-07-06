@@ -16,9 +16,7 @@
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <div align="center">
-	<img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g"><img width="50%" height="300px"   src="https://media1.giphy.com/media/3ohzdR8dwIZNjqrZss/giphy.gif?cid=ecf05e47v1rg09mocwipqcnxua48i6s22rlm912kfn5jk1uh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-
-	
+	<img " src="./images/image.png" >
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> 
@@ -42,16 +40,16 @@
 <div class="container">
       <div class="scroll-parent">
       <div class="scroll-element primary">
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/c-original.svg'  width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/cpp.svg' width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/python2.png' width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/html.svg'width='75px' /> 
-          <img src=  'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/java.svg'width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/kotlin.svg' width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/css.svg' width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/js.svg' width='75px' /> 
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/php.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/sql.svg' width='75px' />   
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/c-original.svg'  width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/cpp.svg' width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/python2.png' width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/html.svg'width='65px' /> 
+          <img src=  'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/java.svg'width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/kotlin.svg' width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/css.svg' width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/js.svg' width='65px' /> 
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/php.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/sql.svg' width='65px' />   
         </div>
     </div>
  
@@ -59,16 +57,16 @@
 <div class="container">
       <div class="scroll-parent">
         <div class="scroll-element primary">
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/pycharm.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/android.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flutter-logo.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/django.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flask.png' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/git.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/nodejs.svg' width='75px' />
-          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/react.svg' width='75px' />
-	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/angular.svg' width='75px' />
-	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/ionic.svg' width='75px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/pycharm.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/android.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flutter-logo.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/django.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/flask.png' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/git.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/nodejs.svg' width='65px' />
+          <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/react.svg' width='65px' />
+	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/angular.svg' width='65px' />
+	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/ionic.svg' width='65px' />
         </div>
       </div>
 </div>
