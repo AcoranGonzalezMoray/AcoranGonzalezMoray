@@ -126,7 +126,7 @@ My Github Stats
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />	
 <h2> 🎵 Currently Coding & Listening to:</h2>
 <div align="center">
-	<img src="https://spotify-real-time-3rdpmlhen-acorangonzalezmoray.vercel.app/api/spotify/?show_offline=true&&?background_color=8b0000&border_color=ffffff">
+	<img src="https://spotify-real-time-g0by20tx4-acorangonzalezmoray.vercel.app/api/spotify?show_offline=true&&?background_color=8b0000&border_color=ffffff">
 </div>
 	
 </details>
