@@ -16,7 +16,7 @@
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
 <div align="center">
-	<img " src="./images/image.png" >
+	<img " src="./images/front.png" >
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> 
