@@ -66,7 +66,7 @@
           <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/nodejs.svg' width='65px' />
           <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/c87477ef8ca5c757d48a75f3878aeff69480efea/images/react.svg' width='65px' />
 	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/angular.svg' width='65px' />
-	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/ionic.svg' width='65px' />
+	  <img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/ionic.svg' width='65px' />	<img src = 'https://raw.githubusercontent.com/AcoranGonzalezMoray/AcoranGonzalezMoray/main/images/.NET.png' width='65px' />
         </div>
       </div>
 </div>
