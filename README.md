@@ -118,9 +118,47 @@ My Github Stats
 | Most Used Languages | Top Languages by Repo |Top Languages by Commit |
 | ------------- | ------------- |----|
 | <img src="https://github-readme-stats-git-main-acorangonzalezmoray.vercel.app/api/top-langs?username=AcoranGonzalezMoray&layout=compact&count_private=true&theme=dracula"/>   | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acorangonzalezmoray&theme=dracula)  |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acorangonzalezmoray&theme=dracula)|
+</details>
 
-
-
+<details  open>
+<summary><h2>Mindmap</h2></summary>
+<br>
+	
+```mermaid
+mindmap
+  root((GIT))
+    Mobile application📱(Mobile application📱)
+      MyMessage 
+      MyDay
+      MyAnime
+      QRStockMate
+    Web application🌐(Web application🌐)
+      ServicioGasolineraOnline
+      ServicioBibliotecaOnline
+      TuEspacio
+      Portafolio
+    Desktop application🖥(Desktop application🖥)
+      AeroSpyne
+      MoneyCalculator 
+      ApiRest
+      ImageViewer
+    Algorithm🗘(Algorithm🗘)
+        Algoritmo 0/1 KnapsackProblem Tabulation
+        Algoritmo 0/1 KnapsackProblem Memoization
+        Algoritmo Aproximacion TSP
+        Algoritmo Christofides en TSP
+        Algoritmo Fuerza Bruta
+        Algoritmo Genetico Cruce de ciclo
+        Algoritmo HouseRobber
+        Algoritmo NQueens FuerzaBruta
+        Algoritmo RamificacionAcotacion
+        Algoritmo TopologicalSort
+        Algortimo ShortestPathLength
+    IA | ComputerVision👀(IA | ComputerVision👀)
+        RedNeuronalConvolucional
+```
+	
+</details>
 
 <br>
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />	
