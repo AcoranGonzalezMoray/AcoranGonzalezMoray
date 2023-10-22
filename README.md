@@ -163,10 +163,17 @@ mindmap
 <br>
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />	
 <h2> 🎵 Currently Coding & Listening to:</h2>
+
 <div align="center">
-	<img src="https://spotify-real-time-g0by20tx4-acorangonzalezmoray.vercel.app/api/spotify?show_offline=true&&?background_color=8b0000&border_color=ffffff">
+
+ | DISCORD      | SPOTIFY        |
+|:-----------------:|:-------------------:|
+| ![Imagen 1](https://discord-cards.kurizu.repl.co/api/card/734960236175032320?about=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&banner=https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/04/Asi-se-ve-Denji-convertido-en-adulto-segun-ilustracion-de-Chainsaw-Man-1.jpg&large_image=https://www.mundodeportivo.com/files/image_948_465/uploads/2021/12/13/61b7186c22e42.jpeg&small_image=https://elcomercio.pe/resizer/PW-nKFGzHAH_w6Uf1bXjNoy9n5Q=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/AJAXJRA2BJC3TBJJOOZRRGITJM.jpg&hex=ffffff) | ![Imagen 2](https://spotify-real-time-g0by20tx4-acorangonzalezmoray.vercel.app/api/spotify?show_offline=true&&?background_color=8b0000&border_color=ffffff)  |
+ 
 </div>
 	
 </details>
 
- 
+
+
+
