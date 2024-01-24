@@ -127,11 +127,14 @@ My Github Stats
 ```mermaid
 mindmap
   root((GIT))
+  :::urgent large
     Mobile application📱(Mobile application📱)
-      MyMessage 
+      MyMessage :::urgent large
       MyDay
       MyAnime
+      :::urgent large
       QRStockMate
+    :::urgent large
     Web application🌐(Web application🌐)
       ServicioGasolineraOnline
       ServicioBibliotecaOnline
