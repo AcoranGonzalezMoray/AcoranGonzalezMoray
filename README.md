@@ -21,7 +21,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AcoranGonzalezMoray" alt="AcoranGonzalezMoray" /> 
 	
-[![Linkedin Badge](https://img.shields.io/badge/-AcoranGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acorán-gonzález-moray)](https://www.linkedin.com/in/acorán-gonzález-moray)  [![Gmail Badge](https://img.shields.io/badge/-acorangonzalezmoray@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acorangonzalezmoray@gmail.com)](mailto:acorangonzalezmoray@gmail.com) [![Gmail Badge](https://img.shields.io/badge/WEB-Portafolio-lightgrey)](https://acorangonzalezmoray.github.io/Portafolio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-AcoranGonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acorán-gonzález-moray)](https://www.linkedin.com/in/acorán-gonzález-moray)  [![Gmail Badge](https://img.shields.io/badge/-acorangonzalezmoray@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acorangonzalezmoray@gmail.com)](mailto:acorangonzalezmoray@gmail.com) [![Gmail Badge](https://img.shields.io/badge/WEB-Portafolio-lightgrey)](https://acorangonzalezmoray-mu.vercel.app/) 
 </div>
 
 
